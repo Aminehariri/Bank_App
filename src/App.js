@@ -4,7 +4,7 @@ import {Hero, Navbar ,Stats,Billing,CardDeal,Testimonials,CTA,Clients,Footer, Bu
 
 function App() {
   return (
-    <div className="bg-[#00040f] w-full overflow-hidden">
+    <div className="bg-[#00040f] w-full overflow-hidden px-4">
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
 
         <div className={`${styles.boxWidth}`}>
