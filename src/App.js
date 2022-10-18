@@ -24,6 +24,7 @@ function App() {
           <Bussness />
           <Billing />
           <CardDeal />
+          <Testimonials />
           <Clients />
           <CTA />
           <Footer />      
